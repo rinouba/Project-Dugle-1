@@ -23,3 +23,9 @@
   .margin-top{
     margin-top: 10%;
   }
+
+  /* animate */
+  #pulldown {
+    padding: 50px;
+    display: none;
+  }
