@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700;800&display=swap');
+
+.body{
+    background-color: #1a1b1e;
+  }
+  
+.logo-img{
+  width: 6%;
+}
+  .nav-item{
+    padding: 15px;
+    font-size: 20px;
+  }
+  
+  .h1-header{
+    font-size: 40px;
+    z-index: 1;
+  }
+  .Header{
+    margin-bottom: 5%;
+  }
+  
+  .margin-top{
+    margin-top: 10%;
+  }
